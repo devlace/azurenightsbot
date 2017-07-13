@@ -1,0 +1,23 @@
+{
+    "main_greetings": "Welcome! I am the Azure Nights' bot",
+    "main_greetings_subtitle": "Azure nights is a meetup group about everything on Microsoft Azure.",
+    "main_ask": ["How may I help you?", "What would you like to do?", "Here are my superpowers, pick one."],
+    "goodbye": ["Goodbye!", "Thanks for chatting!", "Ciao!"],
+    "ask_which_session": "Please select a session to give feedback on",
+    "session_not_found": "I'm sorry, but I can't find that session. Please try again or say 'cancel' to cancel giving feedback.",
+    "your_selected_session": "You selected <b>%s</b>",
+    "ask_rate_the_speaker": "Please rate the <b>speaker</b> (1 worst, 5 best)",
+    "ask_rate_the_content": "Please rate the <b>content</b> (1 worst, 5 best)",
+    "ask_rate_the_overall": "Please rate the <b>overall</b> presentation (1 worst, 5 best)",
+    "ask_general_feedback": "Lastly, please provide any general comments you may have (ei. How it can be improved? What did you like about it? Did you learn a lot?)",
+    "invalid_option": "Ooops, what you wrote is not a valid option, please try again",
+    "sorry_bad_feedback": ["We are sorry to hear. We will take note of your feedback."],
+    "thanks_great_feedback": ["Awesome stuff! Thank you for your wonderful comment! :)", "Aww shucks, that's really nice of you."],
+    "thanks_for_feedback": "Thank you for your feedback!",
+    "feedback_has_submitted": "Your feedback has been submitted.",
+    "go_to_website": "Please visit our page at: https://www.meetup.com/Melbourne-Azure-Nights/",
+    "help": "I am the official Azure Nights Meetup bot. I can respond to commands such as 'Give session feedback' or 'View sessions'. Alternatively, you can also say 'menu' to see the list of choices. If you encounter any issues/bugs with myself, please report to botsupport@azurenights.com.",
+    "not_implemented": "Sorry this feature is not yet working... We are working on it!",
+    "next_session": "Here is the next meetup:",
+    "no_session_found": ["No sessions found.", "Oops, looks like there isn't any."]
+}
